@@ -6,3 +6,13 @@
 
 *.less linguist-vendored
 *.less linguist-vendored
+
+* text=auto
+* text=auto
+
+*.css linguist-vendored
+*.less linguist-vendored
+
+*.less linguist-vendored
+*.less linguist-vendored
+
